@@ -11,7 +11,7 @@
 @prefix dbr: <http://dbpedia.org/resource/>.
 
 <> a foaf:Document ;
-   dc:date "2023-13-11"^^xsd:date ;
+   dc:date "2023-11-13"^^xsd:date ;
    dc:title "Ismael's FOAF Profile"@en ;
    foaf:primaryTopic <#ie> ;
    dc:creator <#ie> .
@@ -26,7 +26,7 @@
    foaf:img <http://raw.githubusercontent.com/despinoza9/lab/main/gold.png> ;
    foaf:knows <http://users.dcc.uchile.cl/~ahogan/foaf.ttl> , <http://users.dcc.uchile.cl/~almorale/foaf.ttl#am> , <http://users.dcc.uchile.cl/~goperez/perfil.ttl#gp> , <users.dcc.uchile.cl/~nescobar/foaf.ttl>  ;
    foaf:interest dbr:Semantic_Web , <http://dbpedia.org/resource/Mistborn> , <http://dbpedia.org/resource/The_Legend_of_Zelda> ; 
-   social:likesMovie dbr:The_Return_of_the_King , dbr:Interstellar_(film) , dbr:Shrek_2 , dbr:Spider-Man:_Into_the_Spider-Verse ;
+   social:likesMovie dbr:The_Return_of_the_King , dbr:Shrek_2 , dbr:Spider-Man:_Into_the_Spider-Verse ;
    social:hasSpiritAnimal dbr:Cat ;
    social:hasFavouritePlatonicSolid dbr:Hexadecahedron ;
    foaf:myersBriggs "INTJ" ;
