@@ -23,7 +23,7 @@
    foaf:givenName "Ismael" ;
    foaf:familyName "Escobar" ;
    foaf:age 21 ; # it would be better to put date of birth to not have to update every birthday, but hey :)
-   foaf:img <http://aidanhogan.com/img/me-sp.png> ;
+   foaf:img <http://raw.githubusercontent.com/despinoza9/lab/main/gold.png> ;
    foaf:knows <http://users.dcc.uchile.cl/~adconcha/foaf.ttl#ab> , <https://users.dcc.uchile.cl/~dhernand/foaf.ttl#dh> , <https://raw.githubusercontent.com/JorgeCVuwu/watos/main/foaf.ttl#jcv> , <http://anakena.dcc.uchile.cl/~bdelpino/foaf.ttl#bdp> , <http://users.dcc.uchile.cl/~bcastro/foaf.ttl#bc> , <http://anakena.dcc.uchile.cl/~rcid/foaf.ttl#rc> , <https://anakena.dcc.uchile.cl/~jberroca/foaf.ttl#jo> , <http://raw.githubusercontent.com/fmanen/FoafProfile/master/foaf.ttl#fm> ,  <http://anakena.dcc.uchile.cl/~alalarco/foaf.ttl#al> , <https://users.dcc.uchile.cl/~ddiomedi/foaf.ttl#ddp> , <http://users.dcc.uchile.cl/~hrosales/foaf.ttl#henry> , <http://users.dcc.uchile.cl/~jluzuria/foaf.ttl#jl> , <http://users.dcc.uchile.cl/~gdelapar/foaf.ttl#gdlp> , <https://users.dcc.uchile.cl/~binostro/foaf.ttl#me> , <http://users.dcc.uchile.cl/~gtartari/gonzalo.ttl#yo> ;
    foaf:interest dbr:Semantic_Web , dbr:Hurling , dbr:Cosmic_latte , dbr:Dancing_plague_of_1518 , dbr:Toast_sandwich ; 
    social:likesMovie dbr:Sharknado , dbr:Sharktopus , dbr:Dinoshark , dbr:Mega_Shark_Versus_Giant_Octopus ;
