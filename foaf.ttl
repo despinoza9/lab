@@ -16,7 +16,7 @@
    foaf:primaryTopic <#ie> ;
    dc:creator <#ie> .
 
-<#de> a foaf:Person ;
+<#ie> a foaf:Person ;
    rdfs:label "Ismael Escobar" ;
    rdfs:comment "Student of the DCC"@en , "Estudiante del DCC"@es ;
    foaf:name "Ismael Escobar" ;
